@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://shubham-barore.netlify.app/](https://shubham-barore.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nihaharika0220.github.io/Portfolio/](https://nihaharika0220.github.io/Portfolio/)
 
 - 💬 Ask me about **JAVA full stack**
 
 - 📫 How to reach me **niharikaaa0220@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing](https://drive.google.com/file/d/1UA14_6LQr8B8_6TNjll4VMFtj3YGnoaF/view?usp=sharing)
+- 📄 Know about my experiences [https://nihaharika0220.github.io/Portfolio/](https://nihaharika0220.github.io/Portfolio/)
 
 - ⚡ Fun fact **Funniest buddy among all**
 
