@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://nihaharika0220.github.io/Portfolio/](https://nihaharika0220.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nihaharika0220.github.io/](https://nihaharika0220.github.io/)
 
 - 💬 Ask me about **JAVA full stack**
 
 - 📫 How to reach me **niharikaaa0220@gmail.com**
 
-- 📄 Know about my experiences [https://nihaharika0220.github.io/Portfolio/](https://nihaharika0220.github.io/Portfolio/)
+- 📄 Know about my experiences [https://nihaharika0220.github.io/](https://nihaharika0220.github.io/)
 
 - ⚡ Fun fact **Funniest buddy among all**
 
