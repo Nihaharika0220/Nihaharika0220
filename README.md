@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://nihaharika0220.github.io/](https://nihaharika0220.github.io/)
 
-- ⚡ Fun fact **Funniest buddy among all**
+-\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
