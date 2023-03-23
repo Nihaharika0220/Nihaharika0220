@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences [https://nihaharika0220.github.io/](https://nihaharika0220.github.io/)
 
--\
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
